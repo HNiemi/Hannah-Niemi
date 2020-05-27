@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## About Me 
 
 You can use the [editor on GitHub](https://github.com/HNiemi/Hannah-Niemi/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
